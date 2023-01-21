@@ -1,0 +1,254 @@
+{
+    "1" :[
+        "comando 1",
+        "comando um",
+        "encerrar",
+        "encerrado",
+        "encerrada",
+        "encerrar trabalho",
+        "terminar",
+        "sair"
+    ],
+    "2" :[
+        "comando 2",
+        "comando dois",
+        "iniciar trabalho",
+        "iniciar visual code",
+        "iniciar o trabalho",
+        "iniciar um trabalho"
+    ],
+    "3" :[
+        "comando 3",
+        "comando três",
+        "desligar",
+        "dormir",
+        "finalizar tudo"
+    ],
+    "4" :[
+        "comando 4",
+        "comando quatro",
+        "suspender",
+        "pausar",
+        "descansar"
+    ],
+    "5" :[
+        "comando 5",
+        "comando cinco",
+        "youtube",
+        "iniciar youtube",
+        "pesquisar youtube",
+        "pesquisar no youtube",
+        "ir para o youtube"
+    ],
+    "6" :[
+        "comando 6",
+        "comando seis",
+        "pesquisar",
+        "iniciar pesquisa"
+    ],
+    "7" :[
+        "comando 7",
+        "comando sete",
+        "pesquisar no navegador",
+        "navegador",
+        "navegar"
+    ],
+    "8" :[
+        "comando 8",
+        "comando oito",
+        "música",
+        "ouvir música",
+        "tocar música",
+        "minhas músicas",
+        "minhas música",
+        "minha música",
+        "tocar som"
+    ],
+    "9" :[
+        "comando 9",
+        "comando nove",
+        "a previsão do tempo",
+        "previsão do tempo",
+        "previsão do tempo para minha cidade",
+        "clima na região",
+        "clima",
+        "ver previsão do tempo"
+    ],
+    "10" :[
+        "comando 10",
+        "comando dez",
+        "abrir aplicativo",
+        "abrir aplicação",
+        "abrir aplicativos"
+    ],
+    "11" :[
+        "comando 11",
+        "comando onze",
+        "vídeo para áudio",
+        "converter vídeo para áudio",
+        "converter vídeo",
+        "extrair áudio"
+    ],
+    "12" :[
+        "comando 12",
+        "comando doze",
+        "paralisar som",
+        "parar som",
+        "parar música",
+        "encerrar música",
+        "encerrar a música",
+        "encerrar som",
+        "encerrar o som"
+    ],
+    "13" :[
+        "comando 13",
+        "comando treze",
+        "qual a hora atual",
+        "hora",
+        "que horas são",
+        "hora atual",
+        "que dia é hoje",
+        "hoje é que dia",
+        "que mês é esse",
+        "em que mês estamos",
+        "qual o mês",
+        "em que ano estamos",
+        "qual o ano",
+        "data atual",
+        "data completa",
+        "data de hoje",
+        "qual data de hoje",
+        "qual a data de hoje"
+    ],
+    "14" :[
+        "comando 14",
+        "comando catorze",
+        "comando quatorze",
+        "baixar no youtube",
+        "baixar áudio youtube",
+        "baixar vídeo youtube",
+        "baixar áudio do youtube",
+        "baixar vídeo do youtube"
+    ],
+    "15" :[
+        "comando 15",
+        "comando quinze",
+        "limpar pastas",
+        "limpar pasta",
+        "limpar local"
+    ],
+    "16" :[
+        "comando 16",
+        "comando dezesseis",
+        "ouvir música do youtube",
+        "ouvir música no youtube",
+        "tocar música do youtube",
+        "tocar música no youtube",
+        "quero música do youtube",
+        "buscar música do youtube",
+        "música do youtube",
+        "música no youtube"
+    ],
+    "17" :[
+        "comando 17",
+        "comando dezesete",
+        "pesquisa wiki",
+        "pesquisa wikipédia",
+        "pesquisa na wikipédia",
+        "pesquisa da wikipédia",
+        "pesquisar na wikipédia",
+        "wikipédia"
+    ],
+    "pause_sound":
+    [
+        "pausar música",
+        "pausar a música",
+        "pausar som",
+        "pausar o som"
+    ],
+    "unpause_sound":
+    [
+        "despausar música",
+        "despausar a música",
+        "despausar som",
+        "despausar o som"
+    ],
+    "rewind_sound":
+    [
+        "repetir música",
+        "repetir a música",
+        "repetir som",
+        "repetir o som",
+        "rebobinar som",
+        "rebobinar o som",
+        "rebobinar música",
+        "rebobinar a música"
+    ],
+    "video_youtube":
+    [
+        "vídeo",
+        "em vídeo",
+        "formato de vídeo",
+        "tipo de vídeo",
+        "mídia de vídeo"
+    ],
+    "audio_youtube":
+    [
+        "áudio",
+        "em áudio",
+        "formato de áudio",
+        "tipo de áudio",
+        "mídia de áudio"
+    ],
+    "hour":[
+        "qual a hora atual",
+        "hora",
+        "que horas são",
+        "hora atual"
+    ],
+    "day":[
+        "que dia é hoje",
+        "hoje é que dia"
+    ],
+    "month":[
+        "que mês é esse",
+        "em que mês estamos",
+        "qual o mês"
+    ],
+    "year":[
+        "em que ano estamos",
+        "qual o ano"
+    ],
+    "date_complete":[
+        "data atual",
+        "data completa",
+        "data de hoje",
+        "qual data de hoje",
+        "qual a data de hoje"
+    ],
+    "positive" :[
+        "sim",
+        "positivo",
+        "afirmativo"
+    ]
+    ,
+    "negative" :[
+        "não",
+        "negativo"
+    ],
+    "my_loc": [
+        "minha localização",
+        "a minha localização",
+        "minha localidade",
+        "meu local",
+        "a minha",
+        "minha região"
+    ],
+    "thanks": [
+        "obrigado",
+        "obrigada",
+        "muito obrigado",
+        "muito obrigada",
+        "valeu"
+    ]
+}
