@@ -1,4 +1,4 @@
-# little_jarvis
+# Pequeno Assistente
 Um simples assistente com python
 
 Funções principais:
