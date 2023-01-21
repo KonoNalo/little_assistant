@@ -24,5 +24,5 @@ Funções principais:
  
 O assistente ainda está em desenvolvimento para uso próprio, se desejar pode utilizar o código para sua própria vontade. Novas atualizações seram postas aqui.
 
-Muitas bibliotecas estão sendo utilizadas para facilitar o trabalho, de uma olhada no código para averigurar quais são
+Muitas bibliotecas estão sendo utilizadas para facilitar o trabalho, de uma olhada no código para averiguar quais são.
  
